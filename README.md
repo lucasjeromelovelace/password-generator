@@ -12,7 +12,7 @@ Used event listener to generate button for password
 
 
 ## Usuage
-
+https://lucasjeromelovelace.github.io/password-generator/
 
 ## Screenshot
 
