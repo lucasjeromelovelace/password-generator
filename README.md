@@ -2,11 +2,13 @@
 
 ## Description
 
-Created password generator for companies that handle sensitive information can use 
-
+Created password generator for companies that handle sensitive information.
+Users click on button and input a number of characters wanted for password. 
+User will be prompted with password requirements.
 
 ## How
 Used Javascript that uses an array to generate a passwrod word with upper case, lower case, numeric and speacial characters.
+Used event listener to generate button for password
 
 
 ## Usuage
