@@ -10,7 +10,7 @@ Used Javascript that uses an array to generate a passwrod word with upper case, 
 
 
 ## Usuage
-https://lucasjeromelovelace.github.io/Portfolio-LucasLovelace/
+
 
 ## Screenshot
 
